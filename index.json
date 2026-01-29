@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ashok_leyland",
+    "type": "vehicle",
+    "game": "BSK",
+    "title": "Ashok Leyland AVTR",
+    "thumbnail": "https://raw.githubusercontent.com/amnihal/testRepo/main/vehicles/ashok_leyland/preview.jpg",
+    "modJson": "https://raw.githubusercontent.com/amnihal/testRepo/main/vehicles/ashok_leyland/mod.json"
+  },
+  {
+    "id": "ksrtc",
+    "type": "vehicle",
+    "game": "BSK",
+    "title": "Ashok Leyland AVTR",
+    "thumbnail": "https://raw.githubusercontent.com/amnihal/testRepo/main/vehicles/ksrtc/preview.png",
+    "modJson": "https://raw.githubusercontent.com/amnihal/testRepo/main/vehicles/ksrtc/mod.json"
+  },
+  {
+    "id": "ksrtc_green",
+    "type": "livery",
+    "game": "BSK",
+    "title": "KSRTC Green Livery",
+    "thumbnail": "https://raw.githubusercontent.com/amnihal/testRepo/main/liveries/ksrtc_green/preview.png",
+    "modJson": "https://raw.githubusercontent.com/amnihal/testRepo/main/liveries/ksrtc_green/mod.json"
+  },
+  {
+    "id": "ksrtc_green_template",
+    "type": "template",
+    "game": "BSK",
+    "title": "KSRTC Green Livery Template",
+    "thumbnail": "https://raw.githubusercontent.com/amnihal/testRepo/main/liveries/ksrtc_green_template/preview.png",
+    "modJson": "https://raw.githubusercontent.com/amnihal/testRepo/main/liveries/ksrtc_green_template/mod.json"
+  }
+]
