@@ -1,34 +1,40 @@
-[
-  {
-    "id": "ashok_leyland",
-    "type": "vehicle",
-    "game": "BSK",
-    "title": "Ashok Leyland AVTR",
-    "thumbnail": "https://raw.githubusercontent.com/amnihal/maakkanmods/main/vehicles/ashok_leyland/preview.jpg",
-    "modJson": "https://raw.githubusercontent.com/amnihal/maakkanmods/main/vehicles/ashok_leyland/mod.json"
-  },
-  {
-    "id": "ksrtc",
-    "type": "vehicle",
-    "game": "BSK",
-    "title": "KSRTC",
-    "thumbnail": "https://raw.githubusercontent.com/amnihal/maakkanmods/main/vehicles/ksrtc/preview.png",
-    "modJson": "https://raw.githubusercontent.com/amnihal/maakkanmods/main/vehicles/ksrtc/mod.json"
-  },
-  {
-    "id": "ksrtc_green",
-    "type": "livery",
-    "game": "BSK",
-    "title": "KSRTC Green Livery",
-    "thumbnail": "https://raw.githubusercontent.com/amnihal/maakkanmods/main/liveries/ksrtc_green/preview.png",
-    "modJson": "https://raw.githubusercontent.com/amnihal/maakkanmods/main/liveries/ksrtc_green/mod.json"
-  },
-  {
-    "id": "ksrtc_green_template",
-    "type": "template",
-    "game": "BSK",
-    "title": "KSRTC Green Livery Template",
-    "thumbnail": "https://raw.githubusercontent.com/amnihal/maakkanmods/main/liveries/ksrtc_green_template/preview.png",
-    "modJson": "https://raw.githubusercontent.com/amnihal/maakkanmods/main/liveries/ksrtc_green_template/mod.json"
-  }
-]
+{
+  "categories": [
+    "vehicle",
+    "livery",
+    "template",
+    "horn"
+  ],
+
+  "trending": "vehicle_avtr",
+
+  "mods": [
+    {
+      "id": "vehicle_avtr",
+      "title": "Ashok Leyland AVTR",
+      "type": "vehicle",
+      "subType": "lorry",
+      "thumbnail": "vehicles/ashok_leyland/preview.jpg",
+      "path": "vehicles/ashok_leyland",
+      "isUpcoming": false
+    },
+    {
+      "id": "vehicle_ksrtc",
+      "title": "KSRTC",
+      "type": "vehicle",
+      "subType": "bus",
+      "thumbnail": "vehicles/ksrtc/preview.jpg",
+      "path": "vehicles/ksrtc",
+      "isUpcoming": true
+    },
+    {
+      "id": "livery_ksrtc",
+      "title": "KSRTC Skin",
+      "type": "livery",
+      "subType": "bus",
+      "thumbnail": "liveries/ksrtc_green/preview.jpg",
+      "path": "liveries/ksrtc_green",
+      "isUpcoming": false
+    }
+  ]
+}
