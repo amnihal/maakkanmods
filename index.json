@@ -1,6 +1,4 @@
 {
-  "lastUpdated": "2026-01-30",
-
   "categories": [
     "vehicle",
     "livery",
@@ -8,9 +6,7 @@
     "horn"
   ],
 
-  "trending": [
-    "vehicle_avtr"
-  ],
+  "trending": "vehicle_avtr",
 
   "mods": [
     {
