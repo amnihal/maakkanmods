@@ -14,7 +14,7 @@
       "title": "Ashok Leyland AVTR",
       "type": "vehicle",
       "subType": "lorry",
-      "thumbnail": "vehicles/ashok_leyland/preview.jpg",
+      "thumbnail": "preview.jpg",
       "path": "vehicles/ashok_leyland",
       "isUpcoming": false
     },
@@ -23,7 +23,7 @@
       "title": "KSRTC",
       "type": "vehicle",
       "subType": "bus",
-      "thumbnail": "vehicles/ksrtc/preview.jpg",
+      "thumbnail": "preview.jpg",
       "path": "vehicles/ksrtc",
       "isUpcoming": true
     },
@@ -32,7 +32,7 @@
       "title": "KSRTC Skin",
       "type": "livery",
       "subType": "bus",
-      "thumbnail": "liveries/ksrtc_green/preview.jpg",
+      "thumbnail": "preview.jpg",
       "path": "liveries/ksrtc_green",
       "isUpcoming": false
     }
