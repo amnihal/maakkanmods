@@ -1,0 +1,18 @@
+{
+  "id": "vehicle_avtr",
+  "title": "Ashok Leyland AVTR",
+  "description": "High quality AVTR lorry mod for BSK.\nOptimized and tested.",
+
+  "downloadCount": 13240,
+
+  "gallery": [
+    "gallery/1.jpg",
+    "gallery/2.jpg",
+    "gallery/3.jpg"
+  ],
+  
+  "downloadUrl": "variants/default.zip",
+  "downloadSize": "18 MB",
+  
+  "updated": "31:01:26"
+}
